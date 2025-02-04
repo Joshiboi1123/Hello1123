@@ -2,3 +2,4 @@
 _https://www.startpage.com/en/_
 __https://yandex.com/
 _
+_https://www.qwant.com/?l=en_
